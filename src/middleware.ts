@@ -15,7 +15,6 @@ export function middleware(request : NextRequest){
     return response;
    
 
-
     // if(request.nextUrl.pathname === "/time"){
     //     return NextResponse.rewrite(new URL("/hello",request.url))
     // }
